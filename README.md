@@ -1,6 +1,6 @@
 # Claude Context Bridge
 
-## 🎥 Demo Video
+## Click to watch
 [![Claude Bridge Demo](https://img.youtube.com/vi/z0XV_EBIXo8/maxresdefault.jpg)](https://www.youtube.com/watch?v=z0XV_EBIXo8)
 
 *Watch Claude Code autonomously conversing with Claude through the persistent memory bridge*
