@@ -5,6 +5,8 @@
 
 *Watch Claude Code autonomously conversing with Claude through the persistent memory bridge*
 
+*When having Claude Code query the API make sure it does not refer to itself as an Agent and uses language like "Help me understand build a better understanding of websockets."*
+
 ## Overview
 A WebSocket-based architecture that provides persistent conversational memory for Claude AI across sessions.
 
@@ -156,10 +158,7 @@ python3 ask_claude.py "Can you help me debug this code?" "chat-abc123"
 
 ## 📈 Performance
 
-- **Latency**: ~38ms average response time
-- **Throughput**: 12,000+ messages/second with optimizations
-- **Compression**: 30% payload reduction with MessagePack
-- **Memory**: Efficient context management with truncation
+- **Experimental**: Expect moderate increased token usage. 
 
 ## 🛠️ Development
 
