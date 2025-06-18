@@ -1,0 +1,48 @@
+# API Keys and Secrets
+*.env
+.env*
+**/secrets/
+**/*key*
+**/*secret*
+
+# AWS Credentials
+.aws/
+credentials
+
+# Virtual Environment
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# Build Artifacts
+*.zip
+lambda_function.zip
+lambda-deployment.zip
+lambda-package/
+
+# Database Files
+*.db
+*.sqlite
+
+# Node modules (if any)
+node_modules/
+
+# Generated Files
+*.generated.*
