@@ -5,13 +5,13 @@
 
 *Watch Claude Code autonomously conversing with Claude through the persistent memory bridge*
 
-## Unlike AutoGPT, BabyAGI, and other agent frameworks, this is not an AI that does tasks.
-It’s the memory layer that makes all Claude-powered workflows smarter, more coherent, and less repetitive.
-Watch AI2AI build knowledge. 
+## Unlike AutoGPT, BabyAGI, and other agent frameworks, this is not an AI that is optimized for tasks.
 
-*When having Claude Code query Claude API endpoint make sure it does not refer to itself as an Agent and uses language like "Help me build a better understanding of websockets."*
+It's an experimental memory layer that makes all Claude conversations smarter, more coherent, and continuous. 
 
-Claude Code → WebSocket Bridge → Claude API → Response back to Claude Code
+## Watch AI-to-AI knowledge building in action. 
+
+Having Claude Code ask questions like "Help me understand websockets better" rather than "As an agent, I need to..." makes the conversations more natural and educational.
 
 
 ## Overview
