@@ -4,7 +4,7 @@ import websockets
 import json
 
 async def test_connection():
-    websocket_url = "wss://z33ebwm3q0.execute-api.us-east-1.amazonaws.com/prod"
+    websocket_url = os.environ.get('WEBSOCKET_URL', 'wss://your-api-id.execute-api.region.amazonaws.com/prod')
     
     try:
         print("🔗 Testing WebSocket connection...")
