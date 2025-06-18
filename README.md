@@ -1,6 +1,13 @@
 # Claude Context Bridge
 
+## 🎥 Demo Video
+[![Claude Bridge Demo](https://img.youtube.com/vi/z0XV_EBIXo8/maxresdefault.jpg)](https://www.youtube.com/watch?v=z0XV_EBIXo8)
+
+*Watch Claude Code autonomously conversing with Claude through the persistent memory bridge*
+
+## Overview
 A WebSocket-based architecture that provides persistent conversational memory for Claude AI across sessions.
+
 
 ## 🎯 What It Does
 
