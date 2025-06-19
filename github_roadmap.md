@@ -1,6 +1,7 @@
 # 🚀 Performance Optimization Roadmap
 
-This document outlines the planned performance enhancements for Claude Context Bridge, focusing on advanced hashing strategies and deduplication improvements.
+Since I pushed the original repo my model running locally has already implemented this. 
+
 
 ## 🎯 Overview
 
