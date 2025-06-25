@@ -1,5 +1,7 @@
 # Claude Context Bridge
 
+**Anthropic's Model Context Protocol (MCP) now provides persistent memory for Claude through Memory and Filesystem MCPs, addressing the core memory problem this bridge was designed to solve. However, I'm continuing development because this infrastructure was built independently, is fully deployable as a standalone solution, and provides unique real-time coordination capabilities that current MCP implementations don't address. Currently experimenting with multi-agent development features - using this bridge as communication infrastructure for coordinated AI agent teams, agent spawning, and cross-model collaboration. The WebSocket-based architecture enables real-time agent coordination for building and deploying actual systems, going beyond the tool integration focus of current MCP frameworks.**
+
 ## Overview
 A WebSocket-based architecture that provides persistent conversational memory for Claude AI across sessions through intelligent context injection.
 
